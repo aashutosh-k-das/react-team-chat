@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: 'Roboto', system-ui, -apple-system, sans-serif;
+  color: #333;
+  background: #eaeef3;
+}
+
+button {
+  font: inherit;
+}
